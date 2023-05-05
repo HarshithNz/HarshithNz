@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harshith_satya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshith_satya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harshith satya sai dandabattula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshith satya sai dandabattula" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harshith-satya-sai-dandabattula-8183781b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshith satya sai dandabattula" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harshith_nz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshith_nz" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harshithnz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshithnz" height="30" width="40" /></a>
 </p>
