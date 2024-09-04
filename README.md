@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshith Satya Sai Dandabattula</h1>
 <h3 align="center">A passionate learner, Learning something new, having an adventure.</h3>
 
-- 💬 Ask me about **Data Science, AI, ML, Computer Vision, NLP, Deep Learning**
+- 💬 Ask me about **Data Science, AI, ML, Computer Vision, NLP, Deep Learning, GenAI, LLM**
 
 - 📫 How to reach me **harshith.satyasai@gmail.com**
 
